@@ -12,3 +12,4 @@ for k in d:
     suma = suma + len(d[k])   
 print(f"W sumie kupuję {suma} produktów")
 print()
+print("commit1")
