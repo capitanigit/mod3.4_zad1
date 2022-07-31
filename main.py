@@ -13,3 +13,4 @@ for k in d:
 print(f"W sumie kupuję {suma} produktów")
 print()
 print("commit1")
+print("commit2")
